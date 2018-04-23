@@ -15,6 +15,7 @@
         "public/js/utils/party.js",
         "public/js/templates/address_list.html",
         "public/js/templates/contact_list.html",
+        "public/js/templates/alternative_items_selector.html",
         "public/js/controllers/stock_controller.js",
         "public/js/payment/payments.js",
         "public/js/controllers/taxes_and_totals.js",
